@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeekHubFirstHomework</string>
+    <string name="result">Result</string>
+    <string name="plus">+</string>
+    <string name="equally">=</string>
+    <string name="show_result">Show result</string>
+</resources>

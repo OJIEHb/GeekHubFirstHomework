@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andrey/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/andrey/GeekHubFirstHomework/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a3bc587e689b6cba0960a6ed52d4f97c3e084adc.jar" />
+    </item>
+    <item
+        jar="/home/andrey/GeekHubFirstHomework/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/andrey/GeekHubFirstHomework/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-da58f97968fc951d2ba7c1f22a99bf6a4e89e796.jar" />
+    </item>
+    <item
+        jar="/home/andrey/GeekHubFirstHomework/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/andrey/GeekHubFirstHomework/app/build/intermediates/pre-dexed/debug/classes-dddf4ae2f5da74ddd7337bc66ea1a4b36d0ad62c.jar" />
+    </item>
+    <item
+        jar="/home/andrey/GeekHubFirstHomework/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/andrey/GeekHubFirstHomework/app/build/intermediates/pre-dexed/debug/classes-dd5c1be00a2e6fb9b01179982c1d489f82b56847.jar" />
+    </item>
+
+</items>
